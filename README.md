@@ -1,2 +1,2 @@
 # CodeSamples
-Sample code for applications.
+Sample code for job applications.
